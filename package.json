@@ -2,7 +2,7 @@
   "name": "Test",
   "description": "Test",
   "version": "0.0.0",
-  "main": "Trap.js",
+  "main": "node Trap.js",
   "scripts": {
     "start": "Trap.js"
   },
